@@ -3,4 +3,5 @@ green
 red
 orange
 blue
-kanchana
+pink
+yellow
